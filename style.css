@@ -1,0 +1,30 @@
+/* font-family: "Cormorant Garamond", serif; */
+/* font-weight: 300 - 700 */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Cormorant Garamond", serif;
+}
+a,
+input[type="submit"],
+button {
+  text-decoration: none;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+}
+img {
+  object-fit: cover;
+}
+/* --------------------------- */
