@@ -166,6 +166,7 @@ section {
   height: 100%;
   position: absolute;
   left: 0;
+  transition: left 1.5s;
 }
 /* --------------section 1-------------- */
 .section-1 {
@@ -197,7 +198,7 @@ section {
 }
 /* --------------section 2-------------- */
 .section-2 {
-  z-index: 51;
+  z-index: 40;
 }
 .section-2-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
@@ -237,7 +238,7 @@ section {
 }
 /* --------------section 3-------------- */
 .section-3 {
-  z-index: 52;
+  z-index: 30;
 }
 .section-3-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)),
@@ -267,7 +268,7 @@ section {
 }
 /* --------------section 4-------------- */
 .section-4 {
-  z-index: 53;
+  z-index: 20;
 }
 .section-4-wrapper {
   display: flex;
@@ -303,7 +304,7 @@ section {
 }
 /* --------------section 5-------------- */
 .section-5 {
-  z-index: 54;
+  z-index: 10;
 }
 .section-5-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
